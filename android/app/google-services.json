@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566754988519",
+    "firebase_url": "https://flash-chat-968e2.firebaseio.com",
+    "project_id": "flash-chat-968e2",
+    "storage_bucket": "flash-chat-968e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566754988519:android:7671017e5c4e53a0c92d42",
+        "android_client_info": {
+          "package_name": "mayowaola.com.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566754988519-0q2f27d972vial1qsi489uittb8295de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68l3Sr9HnrpbjSsBjIt3Glps8uob3u4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566754988519-0q2f27d972vial1qsi489uittb8295de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
